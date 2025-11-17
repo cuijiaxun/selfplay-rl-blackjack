@@ -1,1 +1,3 @@
-# selfplay-rl-blackjack
+# Selfplay-RL-Blackjack
+
+##  Just for fun
